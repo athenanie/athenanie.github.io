@@ -12,7 +12,7 @@ gem 'rspec'
 # Happy Jekylling!
 gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+# gem "minima", "~> 2.5"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -23,6 +23,8 @@ gem 'sass-embedded', '~> 1.89'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-remote-theme', '~> 0.4.3'
+  gem 'logger', '~> 1.6'
+  gem 'jekyll-seo-tag', '~> 2.8'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
