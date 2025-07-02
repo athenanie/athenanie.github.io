@@ -2,10 +2,7 @@ docs_list_title: Navigation Bar Sites
 docs:
 
 - title: Home
-  url: 
-
-- title: About
-  url: about
+  url: /
 
 - title: Portfolio
-  url: portfolio
+  url: /portfolio

@@ -1,15 +1,7 @@
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
-<ul>
-   {% for page in site.data.samplelist.docs %}
-    <li>
-        {% if page.url contains '/getting-started' %}class="active"{% endif %}>
-        <a href="/getting-started/">Getting started</a>
-    </li>
+<ul style="list-style-type: none;">
+   {% for item in site.data.samplelist.docs %}
+        <li {% if page.url contains "{{ item.url }}" %}class="active"{% endif %} style="display: inline-block;">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
    {% endfor %}
-</ul>
-<ul>
-  <li {% if page.url contains '/getting-started' %}class="active"{% endif %}><a href="/getting-started/">Getting started</a></li>
-  <li {% if page.url contains '/without-plugin' %}class="active"{% endif %}><a href="/without-plugins/">Without plugins</a></li>
-  <li {% if page.url contains '/about' %}class="active"{% endif %}><a href="/about/">About</a></li>
-  <li {% if page.url contains '/blog' %}class="active"{% endif %}><a href="/blog/">Blog</a></li>
 </ul>
