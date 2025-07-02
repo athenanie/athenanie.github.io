@@ -1,7 +1,9 @@
 <ul style="list-style-type: none;">
    {% for item in site.data.samplelist.docs %}
-        <li {% if page.url contains "{{ item.url }}" %}class="active"{% endif %} style="display: inline-block;">
-        <a href="{{ item.url }}">{{ item.title }}</a>
+        <li style="display: inline-block;">
+        <a href="{{ item.url }}" {% if page.title contains item.title %}style="text-decoration: underline;"{% endif %}>
+            {{ item.title }}
+        </a>
         </li>
    {% endfor %}
 </ul>
