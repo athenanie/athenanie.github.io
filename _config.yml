@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ynie
+title: basil-nie
 email: ynie004@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
   # origami and mathematical sculpture website
@@ -29,11 +29,18 @@ github_username: athenanie
 
 # Build settings
 
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: pages-themes/tactile@v0.2.0
-theme: minima
+
+minima:
+  nav_pages:
+    - index.md
+    - portfolio.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
