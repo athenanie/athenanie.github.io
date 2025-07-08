@@ -5,9 +5,3 @@
 title: Home
 layout: home
 ---
-![pin](images/pin.png){: style="float: right"}
-
-Hi! I'm Athena, a math student at the University of Toronto. I like making mathematical structures, particularly polyhedra. My favorite materials are 24 lb letter paper (modular origami), 60 lb cardstock (paper strip weaving), and pipe cleaners (take a wild guess). Check out my [portfolio](/portfolio.markdown).
-
-Outside of math and school, I like playing [violin](https://hhchamberstrings.sa.utoronto.ca/) and piano.
-

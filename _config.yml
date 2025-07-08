@@ -37,6 +37,9 @@ plugins:
 #remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: pages-themes/tactile@v0.2.0
 
+header_pages:
+  - about.md
+  - portfolio.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
