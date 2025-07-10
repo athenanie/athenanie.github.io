@@ -21,9 +21,8 @@
 title: athena-nie
 email: ynie004@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
-  #origami website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "athenanie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  origami website
+url: "http://athenanie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: athenanie
 flickr_username: 183044975@N02
 linkedin_username: athena-nie-39134b28a
