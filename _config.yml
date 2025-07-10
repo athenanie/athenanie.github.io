@@ -42,6 +42,8 @@ header_pages:
   - index.markdown
   - portfolio.markdown
 
+show_excerpts: true
+
 # images:
 #   - a:
 #     post: 'https://flic.kr/p/2reqVmu'
