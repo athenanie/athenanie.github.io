@@ -1,0 +1,11 @@
+---
+layout: page
+---
+{{ content }}
+<ul>
+    {% for image in page.images %}
+        <li>
+         <img src="{{ image.url }}" alt="{{ image.caption }}">
+        </li>
+    {% endfor %}
+</ul>

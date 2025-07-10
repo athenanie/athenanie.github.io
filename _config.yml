@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: basil.nie
+title: athena-nie
 email: ynie004@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
   #origami website
@@ -33,13 +33,20 @@ linkedin_username: athena-nie-39134b28a
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   #- jekyll-remote-theme
 #remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: pages-themes/tactile@v0.2.0
 
 header_pages:
-  - about.markdown
+  - index.markdown
   - portfolio.markdown
+
+# images:
+#   - a:
+#     post: 'https://flic.kr/p/2reqVmu'
+#     url: 'https://live.staticflickr.com/65535/54629588360_b04f8bab7f_b.jpg'
+#     caption: 'expanded truncated triakis tetrahedron (twelve pentagrams & four hexagrams)'  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
