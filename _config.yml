@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: averynie
+title: avery-nie
 email: ynie004@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
   origami website
-url: "http://athenanie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: athenanie
+url: "http://avery-nie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: avery-nie
 flickr_username: 183044975@N02
-linkedin_username: athena-nie-39134b28a
+linkedin_username: avery-nie-39134b28a
 
 # Build settings
 
