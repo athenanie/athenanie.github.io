@@ -12,4 +12,4 @@ Hi! I'm Avery Nie, a second-year math student at the University of Toronto. I li
 Browse the [portfolio](/portfolio.markdown) for pretty origami photos. 
 <!-- Read my posts for my design process and fun geometry. -->
 
-Outside of math and school, I like playing [violin](https://hhchamberstrings.sa.utoronto.ca/), piano, table tennis, card games, and Flow Free.
+Outside of math and school, I like playing [violin](https://hhchamberstrings.sa.utoronto.ca/), piano, table tennis, [card games](https://setwithforks-dev.web.app/), and Project SEKAI.
