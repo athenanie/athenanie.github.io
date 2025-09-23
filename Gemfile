@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 gem 'nokogiri'
 gem 'rack', '~> 2.2.4'
 gem 'rspec'
