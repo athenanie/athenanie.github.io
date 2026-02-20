@@ -3,7 +3,18 @@ layout: post
 title: URCF Abstract
 ---
 
-These were all designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during my summer semester (May-Aug 2025). 
+#### Submission topic and summary
+
+Origami polyhedral compounds are often comprised of several polygonal frames, interwoven in a way that creates structural stability. This project investigates and pushes the limits on the criteria for a polyhedron to be converted into a compound of polygons. Some shapes, like the rhombicosidodecahedron, possess qualities that can easily convert them into compounds. But even with other shapes, there are certain operations that can create the wanted criteria with predictable visual effects: expansion, truncation + rectification ("twisty"), and snub + expansion ("floral").
+
+All polyhedra were constructed by weaving together origami star polygons (n-pointed stars, referred to below as n-grams), giving their overall spiky appearance. Every model is colored in a "symmetric" way, never letting the same color touch itself, aside from self-intersection. Materials include 24lb Astrobrights color paper. Digital mockups and calculations were done with the help of [polyhedronisme](https://levskaya.github.io/polyhedronisme/). 
+
+#### Where did the idea for your project originate?
+
+Six Intersecting Pentagrams by Francesco Mancini is one of the most well-known polyhedral compounds. It's made out of interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, I noticed that there are many other polyhedra that could inspire compounds constructed using a similar method. So, I methodically found, folded, and categorized a bunch of them.
+
+These were all designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during my summer semester (May-Aug 2025).
+
 
 ### Intersecting Planes
 
@@ -12,7 +23,7 @@ These were all designed and folded by me between December 2024 and August 2025, 
 | ![7](imgs\seven_hexagrams.jpg) | ![8](imgs\eight_heptagrams.jpg) | ![9](imgs\nine_octagrams.jpg) |
 | tk | tk | tk |
 
-| 10 Nonagrams (rectified truncated icosahedron)|
+| 10 nonagrams (rectified truncated icosahedron)|
 |--|
 ![atI](imgs\rectified_truncated_icosahedron.jpg) |
 | tk |
@@ -40,14 +51,14 @@ These were all designed and folded by me between December 2024 and August 2025, 
 |--|--|
 | ![egeC](imgs\expanded_great_rhombicuboctahedron.jpeg) | ![egeD](imgs\expanded_great_rhombicosidodecahedron.jpg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaD> |
-| all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle; epsilon tight | 11/6”x4.25” rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, decagrams at 90 degrees |
+| all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle | 11/6”x4.25” rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, decagrams at 90 degrees |
 
 | expanded rectified truncated icosahedron |
 |--|
 | ![eatI](imgs\expanded_rectified_truncated_icosahedron.jpeg) |
 | tk |
 
-### Double-expanded or Quadruple-expanded Polyhedra
+### More-expanded Polyhedra
 
 | expanded rhombicosidodecahedron | expanded rhombicuboctahedron |
 |--|--|
@@ -85,7 +96,7 @@ These were all designed and folded by me between December 2024 and August 2025, 
 |--|--|--|
 | ![rtO](imgs\twisty_octahedron.jpeg) | ![ertO](imgs\expanded_twisty_octahedron.jpeg) | ![rteO](imgs\twisty_expanded_cuboctahedron.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K999atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eatO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999ateO> |
-| (6 hexagrams), “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 120 degrees | (eatO) (12 dodecagrams) doubled “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 90 degrees, loose but perhaps the best you can do with the twists | tk |
+| (6 hexagrams), “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 120 degrees | (eatO) (12 dodecagrams) doubled “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 90 degrees | tk |
 
 
 | rectified great rhombicuboctahedron | expanded rectified great rhombicuboctahedron |
@@ -119,7 +130,7 @@ These were all designed and folded by me between December 2024 and August 2025, 
 |--|--|--|
 | ![estT](imgs\floral_truncated_tetrahedron.jpeg) | ![estO](imgs\floral_truncated_octahedron.jpg) | ![estC](imgs\floral_truncated_cube.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9estT> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estC> |
-| “floral truncated tetrahedron” 6 colored by edges of tetrahedron; each color gets 2 pentagrams at 11/6”x4.25”, 2 long decagrams with 2*(3 11/6”x4.25” and 2 3:1 @90 degrees) | “floral truncated octahedron” {4/3}: 20-grams with turning number 3 at 120 degrees (11/6”x4.25”) {6/3}: do long decagrams with 2*(4 11/6”x4.25” and 1 3:1 @90 degrees) | “floral truncated cube” {3/3}: 3 pentagrams (11/6”x4.25”) {8/3}: 40-grams 8*(4 11/6”x4.25” and 1 3:1 @90 degrees) used some glue |
+| “floral truncated tetrahedron” 6 colored by edges of tetrahedron; each color gets 2 pentagrams at 11/6”x4.25”, 2 long decagrams with 2*(3 11/6”x4.25” and 2 3:1 @90 degrees) | “floral truncated octahedron” {4/3}: 20-grams with turning number 3 at 120 degrees (11/6”x4.25”) {6/3}: do long decagrams with 2*(4 11/6”x4.25” and 1 3:1 @90 degrees) | “floral truncated cube” {3/3}: 3 pentagrams (11/6”x4.25”) {8/3}: 40-grams 8*(4 11/6”x4.25” and 1 3:1 @90 degrees), used some glue |
 
 | expanded snub cuboctahedron | expanded snub rhombicuboctahedron |
 |--|--|
