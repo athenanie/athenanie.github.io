@@ -1,0 +1,128 @@
+---
+layout: post
+title: URCF Abstract
+---
+
+These were all designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during my summer semester (May-Aug 2025). 
+
+### Intersecting Planes
+
+| 7 hexagrams (weaving based on TUVWXYZ Star) | 8 heptagrams (weaving based on STUVWXYZ Star) | 9 octagrams (weaving based on RSTUVWXYZ Star)|
+|--|--|--|
+| ![7](imgs\seven_hexagrams.jpg) | ![8](imgs\eight_heptagrams.jpg) | ![9](imgs\nine_octagrams.jpg) |
+| tk | tk | tk |
+
+| 10 Nonagrams (rectified truncated icosahedron)|
+|--|
+![atI](imgs\rectified_truncated_icosahedron.jpg) |
+| tk |
+
+### Expanded Polyhedra
+
+| 12 pentagrams (rhombicosidodecahedron) | 4 quadgrams (rhombicuboctahedron) |
+|--|--|
+| ![eD](imgs\rhombicosidodecahedron.png) | ![eC](imgs\rhombicuboctahedron.jpeg) |
+| tk | 1:2 rectangles, regular 60 degree spikes, joint fold instead to midline, is 2/3s of the way to the midline |
+
+| 12 pentagrams + 4 hexagrams (expanded truncated triakis tetrahedron) |
+|--|--|
+| ![et6k3T](imgs\truncated_triakis_tetrahedron_1.png) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K9eK9t6k3T> |
+| 1:2 rectangles, 120 degrees |
+
+| expanded truncated icosahedron | expanded goldberg polyhedron |
+|--|--|
+| ![etI](imgs\expanded_truncated_icosahedron_1.png) | ![ewD](imgs\expanded_goldberg.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=etI> | <https://levskaya.github.io/polyhedronisme/?recipe=eK99wD> |
+| 1:2.22, 120 degrees | 11/6”x4.25”, 120 degrees |
+
+| expanded great rhombicuboctahedron | expanded great rhombicosidodecahedron |
+|--|--|
+| ![egeC](imgs\expanded_great_rhombicuboctahedron.jpeg) | ![egeD](imgs\expanded_great_rhombicosidodecahedron.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=A9etaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaD> |
+| all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle; epsilon tight | 11/6”x4.25” rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, decagrams at 90 degrees |
+
+| expanded rectified truncated icosahedron |
+|--|
+| ![eatI](imgs\expanded_rectified_truncated_icosahedron.jpeg) |
+| tk |
+
+### Double-expanded or Quadruple-expanded Polyhedra
+
+| expanded rhombicosidodecahedron | expanded rhombicuboctahedron |
+|--|--|
+| ![eeD](imgs\expanded_rhombicosidodecahedron.jpg) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeC> |
+| 24 decagrams) (4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
+
+|expanded expanded rhombicuboctahedron |
+|--|
+| ![eeeC](imgs\2expanded_rhombicuboctahedron.jpg)|
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeeC> |
+| 24 hexadecagrams, 4 sizes of rectanges with width 2.125”; lengths are 4.25”, 4.87”, 5.28”, 5.5”; angle slightly less than 90 degrees (limit of 1:2 unit) |
+
+| expanded icosidodecahedron | expanded cuboctahedron |
+|--|--|
+| ![eaD](imgs\expanded_icosidodecahedron.png) | ![eaO](imgs\expanded_rhombicuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eaD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eaO> |
+| (12 decagrams) doubled icosidodecahedron 1:2 4.25’’ rectangles; angle 90 degrees  |doubled cuboctahedron 4.25’’x11/6’’ rectangles, angle 120 degrees |
+
+| expanded expanded cuboctahedron |
+|--|
+| ![eeaC](imgs\2expanded_cuboctahedron.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeaO> |
+| (16 dodecagrams) quadrupled cuboctahedron, 4.25”x2.125” and 1.08x longer, 90 degree angle |
+
+| expanded expanded truncated tetrahedron| expanded expanded truncated octahedron | expanded expanded truncated cube |
+|--|--|--|
+| ![eetT](imgs\2expanded_truncated_tetrahedron.jpeg) | ![eetO](imgs\2expanded_truncated_octahedron.jpg) | ![eetC](imgs\2expanded_truncated_cube.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K9eetT> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eetO> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eetC> |
+| hexgrams: 4.25’’x2.125’’ and 5.5’’x2.125’; dodecagrams: 4.25’’x2.125’’ and 1.1x longer | (eetO) (12 octagrams + 16 dodecagrams) 4.25’’x2.125’’ and 1.2x longer, 90 degree angle; for both octagrams and dodecagrams | (eetC) hexagrams: 4.25’’x2.125’’ and 5.5’’x2.125’ at 120 degrees; hexadecagrams: 4.25’’x2.125’’ and 1.15x longer at min angle for 1:2 rect |
+
+### Twisty Polyhedra
+
+| rectified truncated octahedron | expanded rectified truncated octahedron | rectified truncated expanded octahedron|
+|--|--|--|
+| ![rtO](imgs\twisty_octahedron.jpeg) | ![ertO](imgs\expanded_twisty_octahedron.jpeg) | ![rteO](imgs\twisty_expanded_cuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eatO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999ateO> |
+| (6 hexagrams), “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 120 degrees | (eatO) (12 dodecagrams) doubled “twisty octahedron” 4.25’’x11/6’’ rectangles, angle 90 degrees, loose but perhaps the best you can do with the twists | tk |
+
+
+| rectified great rhombicuboctahedron | expanded rectified great rhombicuboctahedron |
+|--|--|
+| ![rtaO](imgs\twisty_cuboctahedron.jpeg) | ![ertaO](imgs\expanded_twisty_cuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999abO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9eabO> |
+| (8 nonagrams) “twisty cuboctahedron” 11/6”x4.25” rectangles, angle between 120 and 90 degrees, midpoint between those two edges | (16 octadecagrams) doubled “twisty cuboctahedron” 11/6”x4.25” rectangles, 90 degrees |
+
+| rectified great rhombicosidodecahedron |
+|--|
+| [photo temporarily unavailable] |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999abD> |
+| (12 pentadecagrams) “twisty icosidodecahedron” 11/6”x4.25” rectangles, 90 degrees |
+
+| rectified truncated rhombicuboctahedron | rectified truncated rhombicosidodecahedron |
+|--|--|
+| ![rteC](imgs\twisty_rhombicuboctahedron.jpeg) | ![rteD](imgs\twisty_rhombicosidodecahedron.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K9A9ateC> | <https://levskaya.github.io/polyhedronisme/?recipe=K9A9ateD> |
+| (12 dodecagrams) “twisty rhombicuboctahedron” 11/6”x4.25” rectangles, 90 degrees | (24 pentadecagrams) 11/6”x4.25” rectangles, 90 degrees |
+
+
+### "Floral" Polyhedra
+
+| expanded snub cube | expanded snub dodecahedron |
+|--|--|
+| ![esC](imgs\floral_cube.jpeg) | [photo temporarily unavailable] |
+| <https://levskaya.github.io/polyhedronisme/?recipe=A9esC> | <https://levskaya.github.io/polyhedronisme/?recipe=K99esD> |
+| (6 loops) “floral cube” 11/6”x4.25” rectangles, 20-grams with turning number 3 at 120 degrees | (12 loops) “floral dodecahedron” 11/6”x4.25” rectangles, 25-grams with turning number 3 at 90 degrees |
+
+| expanded snub truncated tetrahedron | expanded snub truncated octahedron | expanded snub truncated cube |
+|--|--|--|
+| ![estT](imgs\floral_truncated_tetrahedron.jpeg) | ![estO](imgs\floral_truncated_octahedron.jpg) | ![estC](imgs\floral_truncated_cube.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=A9estT> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estC> |
+| “floral truncated tetrahedron” 6 colored by edges of tetrahedron; each color gets 2 pentagrams at 11/6”x4.25”, 2 long decagrams with 2*(3 11/6”x4.25” and 2 3:1 @90 degrees) | “floral truncated octahedron” {4/3}: 20-grams with turning number 3 at 120 degrees (11/6”x4.25”) {6/3}: do long decagrams with 2*(4 11/6”x4.25” and 1 3:1 @90 degrees) | “floral truncated cube” {3/3}: 3 pentagrams (11/6”x4.25”) {8/3}: 40-grams 8*(4 11/6”x4.25” and 1 3:1 @90 degrees) used some glue |
+
+| expanded snub cuboctahedron | expanded snub rhombicuboctahedron |
+|--|--|
+| ![esaO](imgs\floral_cuboctahedron.jpg) | ![eseC](imgs\floral_rhombicuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=A9esaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A99eseC> |
+| “floral cuboctahedron” (8 loops) {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees | “floral rhombicuboctahedron” {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees {4/4} 11/6”x4.25” rectangles, 4 10-grams, 2/3rds from 120 degrees to 90 degrees |

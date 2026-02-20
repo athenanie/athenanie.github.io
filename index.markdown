@@ -13,3 +13,5 @@ Browse the [portfolio](/portfolio.markdown) for pretty origami photos.
 <!-- Read my posts for my design process and fun geometry. -->
 
 Outside of math and school, I like playing [violin](https://hhchamberstrings.sa.utoronto.ca/), piano, table tennis, and [card games](https://setwithforks-dev.web.app/).
+
+
