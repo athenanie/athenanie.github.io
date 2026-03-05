@@ -3,7 +3,21 @@ layout: post
 title: Spiky Origami Polyhedra Designs
 ---
 
+Submission for UTSC's Undergraduate Research and Creative Forum 2026. Work in progress.
+
+#### Submission topic and summary
+
+Origami polyhedral compounds are often composed of polygonal frames, interwoven in a way that creates structural stability. However, only a small subset of polyhedra have properties that make their edge set easily adaptable to an origami compound design. This project investigates and pushes the limits on the criteria for a polyhedron to be converted into such a compound. Drawing from established knowledge of polyhedra, I methodically pinpointed, folded, and categorized many of these shapes. I found that there are certain operations that create the wanted criteria with predictable visual effects: expansion (“double”, “quadruple”, etc), truncation + rectification ("twisty"), and snub + expansion ("floral"). This work expands on both simple and complex origami compound designs and finds patterns that can be used by artists and designers to create interesting 3-dimensional forms.
+
+All polyhedra were constructed by weaving together modular origami star-shaped polygons, giving their overall spiky appearance. Each model is colored in a symmetric way, never letting the same color touch itself, aside from self-intersection. Design work involved creating mathematical mockups, taking measurements, and angle/ratio calculations. Materials include 24lb Astrobrights color paper.
+
+
+#### Where did the idea for your project originate?
+
+Six Intersecting Pentagrams by Francesco Mancini is one of the most well-known polyhedral compounds. It's made out of interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, I noticed that there are many other polyhedra that could inspire compounds constructed using a similar method, yet no one had made them before. As a longtime fan of modular origami, I was very excited to try my hand at exploring this potential for new origami designs.
+
 These were all designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during my summer semester (May-Aug 2025).
+
 
 ### Intersecting Planes
 
@@ -126,14 +140,3 @@ These were all designed and folded by me between December 2024 and August 2025, 
 | ![esaO](imgs\floral_cuboctahedron.jpg) | ![eseC](imgs\floral_rhombicuboctahedron.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9esaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A99eseC> |
 | “floral cuboctahedron” (8 loops) {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees | “floral rhombicuboctahedron” {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees {4/4} 11/6”x4.25” rectangles, 4 10-grams, 2/3rds from 120 degrees to 90 degrees |
-
-#### Submission topic and summary
-
-Origami polyhedral compounds are often composed of polygonal frames, interwoven in a way that creates structural stability. However, only a small subset of polyhedra have properties that make their edge set easily adaptable to an origami compound design. This project investigates and pushes the limits on the criteria for a polyhedron to be converted into such a compound. Drawing from established knowledge of polyhedra, I methodically pinpointed, folded, and categorized many of these shapes. I found that there are certain operations that create the wanted criteria with predictable visual effects: expansion (“double”, “quadruple”, etc), truncation + rectification ("twisty"), and snub + expansion ("floral"). This work expands on both simple and complex origami compound designs and finds patterns that can be used by artists and designers to create interesting 3-dimensional forms.
-
-All polyhedra were constructed by weaving together modular origami star-shaped polygons, giving their overall spiky appearance. Each model is colored in a symmetric way, never letting the same color touch itself, aside from self-intersection. Design work involved creating mathematical mockups, taking measurements, and angle/ratio calculations. Materials include 24lb Astrobrights color paper.
-
-
-#### Where did the idea for your project originate?
-
-Six Intersecting Pentagrams by Francesco Mancini is one of the most well-known polyhedral compounds. It's made out of interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, I noticed that there are many other polyhedra that could inspire compounds constructed using a similar method, yet no one had made them before. As a longtime fan of modular origami, I was very excited to try my hand at exploring this potential for new origami designs.
