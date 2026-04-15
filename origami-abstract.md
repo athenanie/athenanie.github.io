@@ -5,6 +5,8 @@ title: Designing Spiky Origami Polyhedra
 
 All photos and additional can be viewed on [Flickr](https://flic.kr/s/aHBqjCP2Nq).
 
+### Abstract
+
 Origami polyhedral compounds are composed of interlocking wireframes, which are polyhedra or polygons constructed only out of their edges. This project focuses on compounds woven from polygonal frames, constructed with each edge bent slightly for easier weaving. As a result, each frame takes on a spiky, star-like shape.
 
 A well-known example of this type of model is Six Intersecting Pentagrams. It's made out of six interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, I noticed there are many other polyhedra that could inspire compounds constructed using a similar method, yet no one had made them before. This project investigates and pushes the limits on the criteria for a polyhedron to be designed and constructed in this manner. Drawing on established knowledge of polyhedra, I independently designed, folded, and categorized thirty-five origami compounds, and generalized my design insights to graph theory.
@@ -16,11 +18,11 @@ Generally, I found that polyhedra with degree 4 (four edges at each vertex) can 
 
 ### Originally Degree-4 Polyhedra
 
-While trying to figure out why Six Intersecting Pentagrams and the icosidodecahedron "worked", I noticed that degree-4 polyhedra naturally have a basket-weaving-like pattern. By following edges around the shape, always jumping to the opposite edge at each vertex, we form closed cycles that partition the entire set of edges. Each cycle (of length 2n) can be represented by an n-pointed star (n-gram), which in fact has 2n edges. Each vertex is where two stars/cycles intersect, and by following an in-and-out weaving pattern, we are able to create a stable origami compound.
+In figuring out why Six Intersecting Pentagrams and the icosidodecahedron "worked", I noticed that degree-4 polyhedra naturally have a basket-weaving-like pattern. By following edges around the shape, always jumping to the opposite edge at each vertex, we form closed cycles that partition the entire set of edges. Each cycle (of length 2n) can be represented by an n-pointed star (n-gram), which in fact has 2n edges. Each vertex is where two stars/cycles intersect, and by following an in-and-out weaving pattern, we are able to create a stable origami compound.
 
 | 10 nonagrams (rectified truncated icosahedron)|
 |--|
-|![atI](https://live.staticflickr.com/65535/55170147880_a7bcb9298b_b.jpg) |
+|![atI](imgs\ten_nonagrams.png) |
 |<https://levskaya.github.io/polyhedronisme/?recipe=atI>|
 | 90-degree units folded out of 4.25”x2.125” paper, 90 units total |
 
@@ -28,7 +30,7 @@ The following three compounds are a bit different than the rest on this page; th
 
 | 7 hexagrams (weaving based on TUVWXYZ Star) | 8 heptagrams (weaving based on STUVWXYZ Star) | 9 octagrams (weaving based on RSTUVWXYZ Star)|
 |--|--|--|
-| ![7](https://live.staticflickr.com/65535/55169215578_60aebd5086_b.jpg) | ![8](https://live.staticflickr.com/65535/55169340199_352ac05fd3_b.jpg) | ![9](https://live.staticflickr.com/65535/55169666086_e1394fc5fb_b.jpg) |
+| ![7](imgs\seven_hexagrams.png) | ![8](imgs\eight_heptagrams_1.png) | ![9](imgs\nine_octagrams_1.png) |
 | 120-degree units folded out of 5.5”x2.667” paper, 42 units total | ~103-degree units folded out of 4.5”x2.125” paper, 56 units total | ~103-degree units folded out of 4.5”x2.125” paper, 72 units total |
 
 
@@ -36,10 +38,10 @@ The following three compounds are a bit different than the rest on this page; th
 
 The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly also count as well-known degree-4 polyhedra. However, they are included in this section because they fit the generalization of expansions of degree-3 polyhedra. From math, we know that the expansion of any polyhedron is degree-4, which is something we'll come back to. But expansions of degree-3 polyhedra in particular have a clear face-to-star correspondence since each face turns into a cupola when expanded. As a result, there is a shared theory behind the weaving of the following shapes.
 
-| 12 pentagrams (rhombicosidodecahedron) | 4 quadgrams (rhombicuboctahedron) |
+| 12 pentagrams (rhombicosidodecahedron) | 6 quadgrams (rhombicuboctahedron) |
 |--|--|
-| ![eD](imgs\rhombicosidodecahedron.png) | ![eC](imgs\rhombicuboctahedron.jpeg) |
-| tk | ~132-degree units folded out of 5.5”x2.25” paper, 24 units total |
+| ![eD](imgs\rhombicosidodecahedron.png) | ![eC](imgs\six_quadgrams_1.png) |
+| 120-degree units folded out of 5.5”x2.25” paper, 60 units total | ~132-degree units folded out of 5.5”x2.25” paper, 24 units total |
 
 | 12 pentagrams + 4 hexagrams (expanded truncated triakis tetrahedron) |
 |--|--|
@@ -49,7 +51,7 @@ The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly a
 
 | expanded truncated icosahedron | expanded goldberg polyhedron |
 |--|--|
-| ![etI](imgs\expanded_truncated_icosahedron_1.png) | ![ewD](imgs\expanded_goldberg.jpg) |
+| ![etI](imgs\expanded_truncated_icosahedron_1.png) | ![ewD](imgs\expanded_goldberg_polyhedron.png) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=etI> | <https://levskaya.github.io/polyhedronisme/?recipe=eK99wD> |
 | 1:2.22, 120 degrees | 11/6”x4.25”, 120 degrees |
 
@@ -77,7 +79,7 @@ What happens when you expand a polyhedron that's already degree-4? The result is
 
 | expanded rhombicosidodecahedron | expanded rhombicuboctahedron |
 |--|--|
-| ![eeD](imgs\expanded_rhombicosidodecahedron.jpg) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
+| ![eeD](imgs\doubled_rhombicosidodecahedron_1.png) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeC> |
 | 24 decagrams) (4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
 
@@ -93,14 +95,14 @@ This "doubling" expansion process can be applied multiple times, though size and
 
 | expanded expanded cuboctahedron |
 |--|
-| ![eeaC](imgs\2expanded_cuboctahedron.jpg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeaO> |
+| ![eeaC](imgs\quadrupled_cuboctahedron_1.png) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K99eeaO> |
 | (16 dodecagrams) quadrupled cuboctahedron, 4.25”x2.125” and 1.08x longer, 90 degree angle |
 
 |expanded expanded rhombicuboctahedron |
 |--|
-| ![eeeC](imgs\2expanded_rhombicuboctahedron.jpg)|
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeeC> |
+| ![eeeC](imgs\quadrupled_rhombicuboctahedron_1.png)|
+| <https://levskaya.github.io/polyhedronisme/?recipe=K99eeeC> |
 | 24 hexadecagrams, 4 sizes of rectanges with width 2.125”; lengths are 4.25”, 4.87”, 5.28”, 5.5”; angle slightly less than 90 degrees (limit of 1:2 unit) |
 
 From now on, this process is nicknamed as "doubling", "quadrupling", etc.
@@ -160,5 +162,7 @@ The last (and perhaps weirdest) generalization covered here is the result of snu
 | “floral cuboctahedron” (8 loops) {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees | “floral rhombicuboctahedron” {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees {4/4} 11/6”x4.25” rectangles, 4 10-grams, 2/3rds from 120 degrees to 90 degrees |
 
 Generally, all of the polyhedra above have turned out pretty spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like. These results were unbeknownst to even me until I finished folding and construction—though polyhedronisme was amazingly helpful at rendering the plain polyhedra, there was no computer visualization for so much of the construction and engineering process behind these shapes.
+
+There's so much more math to go in-depth on and so much more engineering and color-palette choices and pedantic origami-folding things to speak about. And the graph coloring! Some of those polyhedral colorings could make some crazy math problems. 
 
 It feels like so much of origami design work only exists in your head. But mathematical language helps explain it.
