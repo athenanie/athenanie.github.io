@@ -3,40 +3,43 @@ layout: post
 title: Designing Spiky Origami Polyhedra
 ---
 
-All origami photos can also be viewed on [Flickr](https://flic.kr/s/aHBqjCP2Nq).
+All photos and additional can be viewed on [Flickr](https://flic.kr/s/aHBqjCP2Nq).
 
 Origami polyhedral compounds are composed of interlocking wireframes, which are polyhedra or polygons constructed only out of their edges. This project focuses on compounds woven from polygonal frames, constructed with each edge bent slightly for easier weaving. As a result, each frame takes on a spiky, star-like shape.
 
-A well-known example of this type of model is Six Intersecting Pentagrams. It's made out of six interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, there are many other polyhedra that could inspire compounds constructed using a similar method, yet no one had made them before. 
+A well-known example of this type of model is Six Intersecting Pentagrams. It's made out of six interwoven 5-pointed stars, and the polyhedral shape underlying the compound is an icosidodecahedron. From a mathematical perspective, I noticed there are many other polyhedra that could inspire compounds constructed using a similar method, yet no one had made them before. This project investigates and pushes the limits on the criteria for a polyhedron to be designed and constructed in this manner. Drawing on established knowledge of polyhedra, I independently designed, folded, and categorized thirty-five origami compounds.
 
-This project investigates and pushes the limits on the criteria for a polyhedron to be designed and constructed in this manner. Drawing on established mathematical knowledge, I independently designed, folded, and categorized thirty-five origami compounds. 
+All polyhedra were constructed from simple edge units, with varying angles and paper ratios. The n-gram (n-pointed star) frames are woven together in a basket-weave-like pattern, following closed loops along the edges of the chosen polyhedron. Each model is colored symmetrically, never letting the same color touch itself aside from self-intersection. Design work involved creating polyhedron mockups in polyhédronisme, taking measurements, and angle/ratio calculations. Materials include 24lb Astrobrights color paper. These were designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during Summer 2025 (May-Aug 2025).
 
-All polyhedra were constructed from simple edge units, with varying angles and paper ratios. Edge units star-shaped polygons, giving their overall spiky appearance. Each model is colored symmetrically, never letting the same color touch itself aside from self-intersection. Design work involved creating polyhedron mockups in polyhédronisme, taking measurements, and angle/ratio calculations. The n-gram (n-pointed star) frames are woven together in a basket-weave-like pattern, following closed loops along the edges of the chosen polyhedron. Materials include 24lb Astrobrights color paper. These were designed and folded by me between December 2024 and August 2025, though the vast majority of folding took place during the Summer 2025 semester (May-Aug 2025).
-
-Generally, polyhedra with degree 4 (four edges at each vertex) can be woven into these compounds. There are specific polyhedral operations that can create degree-4 polyhedra with predictable visual effects: expansion of degree-3 shapes, further expansion of degree-4 shapes (“double”, “quadruple”, etc), truncation + rectification (“twisty”), and snub + expansion (“floral”). This work expands on both simple and complex origami compound designs and finds patterns that can be used by artists and designers to create interesting 3-dimensional forms.
+Generally, I found that polyhedra with degree 4 (four edges at each vertex) can be woven into these compounds, though this project only explores highly symmetrical polyhedra. Other than well-known Archimedian/Johnson solidsThere are specific polyhedral operations that can create degree-4 polyhedra with predictable visual effects: expansion of degree-3 shapes, further expansion of degree-4 shapes (“double”, “quadruple”, etc), truncation + rectification of degree-4 shapes (“twisty”), and snub + expansion of degree-3 shapes (“floral”). This work expands on both simple and complex origami compound designs and finds patterns that can be used by artists, designers, and engineers to create interesting 3-dimensional forms.
 
 
 ### Originally Degree-4 Polyhedra
 
-Degree-4 polyhedra naturally have a "basket-weaving"-like pattern, by following lines. ow. In fact, this is the necessary and sufficient condition for a polyhedron (or polyhedral planar graph) to be converted into a woven origami compoound.
+While trying to figure out why Six Intersecting Pentagrams and the icosidodecahedron "worked", I noticed that degree-4 polyhedra naturally have a basket-weaving-like pattern. By following edges around the shape, always jumping to the opposite edge at each vertex, we form closed cycles that partition the entire set of edges. Each closed cycle (of length 2n) can be represented by an n-pointed star (n-gram), which in fact has 2n edges. Each vertex is where two stars/cycles intersect, and by following an in-and-out weaving pattern, we are able to create a stable origami compound.
+
+| 10 nonagrams (rectified truncated icosahedron)|
+|--|
+|![atI](https://live.staticflickr.com/65535/55170147880_a7bcb9298b_b.jpg) |
+|<https://levskaya.github.io/polyhedronisme/?recipe=atI>|
+| 90-degree units folded out of 4.25”x2.125” paper, 90 units total |
+
+The following three compounds are a bit different than the rest on this page; they're based off of Meenakshi Mukerji's planar star guides, which are degree-4 graphs that don't necessarily have a nice polyhedral representation in 3D. But due to their degree-4-ness and symmetric nature, their structure works just as well for origami compounds.
 
 | 7 hexagrams (weaving based on TUVWXYZ Star) | 8 heptagrams (weaving based on STUVWXYZ Star) | 9 octagrams (weaving based on RSTUVWXYZ Star)|
 |--|--|--|
 | ![7](https://live.staticflickr.com/65535/55169215578_60aebd5086_b.jpg) | ![8](https://live.staticflickr.com/65535/55169340199_352ac05fd3_b.jpg) | ![9](https://live.staticflickr.com/65535/55169666086_e1394fc5fb_b.jpg) |
 | 120-degree units folded out of 5.5”x2.667” paper, 42 units total | ~103-degree units folded out of 4.5”x2.125” paper, 56 units total | ~103-degree units folded out of 4.5”x2.125” paper, 72 units total |
 
-| 10 nonagrams (rectified truncated icosahedron)|
-|--|
-![atI](https://live.staticflickr.com/65535/55170147880_a7bcb9298b_b.jpg) |
-| 90-degree units folded out of 4.25”x2.125” paper, 90 units total |
 
+### Expanded Degree-3 Polyhedra
 
-### Expanded Polyhedra
+The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly also count as well-known degree-4 polyhedra. However, they are included in this section because they fit the generalization of expansions of degree-3 polyhedra. From math, we know that the expansion of any polyhedron is degree-4, which is something we'll come back to. But expansions of degree-3 polyhedra in particular have a clear face-to-star correspondence since each face turns into a cupola when expanded. As a result, the theory behind the weaving of the following shapes have some incredible similarities.
 
 | 12 pentagrams (rhombicosidodecahedron) | 4 quadgrams (rhombicuboctahedron) |
 |--|--|
 | ![eD](imgs\rhombicosidodecahedron.png) | ![eC](imgs\rhombicuboctahedron.jpeg) |
-| tk | 1:2 rectangles, regular 60 degree spikes, joint fold instead to midline, is 2/3s of the way to the midline |
+| tk | ~132-degree units folded out of 5.5”x2.25” paper, 24 units total |
 
 | 12 pentagrams + 4 hexagrams (expanded truncated triakis tetrahedron) |
 |--|--|
@@ -56,24 +59,8 @@ Degree-4 polyhedra naturally have a "basket-weaving"-like pattern, by following 
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaD> |
 | all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle | 11/6”x4.25” rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, decagrams at 90 degrees |
 
-| expanded rectified truncated icosahedron |
-|--|
-| ![eatI](imgs\expanded_rectified_truncated_icosahedron.jpeg) |
-| tk |
 
 ### More-expanded Polyhedra
-
-| expanded rhombicosidodecahedron | expanded rhombicuboctahedron |
-|--|--|
-| ![eeD](imgs\expanded_rhombicosidodecahedron.jpg) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeC> |
-| 24 decagrams) (4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
-
-|expanded expanded rhombicuboctahedron |
-|--|
-| ![eeeC](imgs\2expanded_rhombicuboctahedron.jpg)|
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeeC> |
-| 24 hexadecagrams, 4 sizes of rectanges with width 2.125”; lengths are 4.25”, 4.87”, 5.28”, 5.5”; angle slightly less than 90 degrees (limit of 1:2 unit) |
 
 | expanded icosidodecahedron | expanded cuboctahedron |
 |--|--|
@@ -87,11 +74,29 @@ Degree-4 polyhedra naturally have a "basket-weaving"-like pattern, by following 
 | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeaO> |
 | (16 dodecagrams) quadrupled cuboctahedron, 4.25”x2.125” and 1.08x longer, 90 degree angle |
 
+| expanded rectified truncated icosahedron |
+|--|
+| ![eatI](imgs\expanded_rectified_truncated_icosahedron.jpeg) |
+| tk |
+
+| expanded rhombicosidodecahedron | expanded rhombicuboctahedron |
+|--|--|
+| ![eeD](imgs\expanded_rhombicosidodecahedron.jpg) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeC> |
+| 24 decagrams) (4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
+
+|expanded expanded rhombicuboctahedron |
+|--|
+| ![eeeC](imgs\2expanded_rhombicuboctahedron.jpg)|
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999eeeC> |
+| 24 hexadecagrams, 4 sizes of rectanges with width 2.125”; lengths are 4.25”, 4.87”, 5.28”, 5.5”; angle slightly less than 90 degrees (limit of 1:2 unit) |
+
 | expanded expanded truncated tetrahedron| expanded expanded truncated octahedron | expanded expanded truncated cube |
 |--|--|--|
 | ![eetT](imgs\2expanded_truncated_tetrahedron.jpeg) | ![eetO](imgs\2expanded_truncated_octahedron.jpg) | ![eetC](imgs\2expanded_truncated_cube.jpg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K9eetT> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eetO> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eetC> |
 | hexgrams: 4.25’’x2.125’’ and 5.5’’x2.125’; dodecagrams: 4.25’’x2.125’’ and 1.1x longer | (eetO) (12 octagrams + 16 dodecagrams) 4.25’’x2.125’’ and 1.2x longer, 90 degree angle; for both octagrams and dodecagrams | (eetC) hexagrams: 4.25’’x2.125’’ and 5.5’’x2.125’ at 120 degrees; hexadecagrams: 4.25’’x2.125’’ and 1.15x longer at min angle for 1:2 rect |
+
 
 ### Twisty Polyhedra
 
