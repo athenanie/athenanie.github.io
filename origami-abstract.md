@@ -81,7 +81,7 @@ What happens when you expand a polyhedron that's already degree-4? The result is
 |--|--|
 | ![eeD](imgs\doubled_rhombicosidodecahedron_1.png) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eeC> |
-| 24 decagrams) (4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
+| (24 decagrams) 4.25”x2.125” and 5.5”x2.125”, 90 degree angle  | (12 octagrams) doubled rhombicuboctahedron 4.25”x2.125” and 1.2x longer, 90 degree angle |
 
 The Archimedean degree-3 truncated tetrahedron, truncated octahedron, and truncated cube have yet to be mentioned, because I felt their expanded versions were too small to be made into a non-trivial compound. But an additional expansion does the job:
 
@@ -161,8 +161,4 @@ The last (and perhaps weirdest) generalization covered here is the result of snu
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9esaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A99eseC> |
 | “floral cuboctahedron” (8 loops) {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees | “floral rhombicuboctahedron” {3/4}: 11/6”x4.25” rectangles, 30-grams with turning number 4, angle midpoint btwn 120 and 90 degrees {4/4} 11/6”x4.25” rectangles, 4 10-grams, 2/3rds from 120 degrees to 90 degrees |
 
-Generally, all of the polyhedra above have turned out pretty spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like. These results were unbeknownst to even me until I finished folding and construction—though polyhedronisme was amazingly helpful at rendering the plain polyhedra, there was no computer visualization for so much of the construction and engineering process behind these shapes.
-
-There's so much more math to go in-depth on and so much more engineering and color-palette choices and pedantic origami-folding things to speak about. And the graph coloring! Some of those polyhedral colorings could make some crazy math problems. 
-
-It feels like so much of origami design work only exists in your head. But mathematical language helps explain it.
+Generally, all of the polyhedra above have turned out pretty spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like.
