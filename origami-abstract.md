@@ -40,31 +40,31 @@ The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly a
 
 | 12 pentagrams (rhombicosidodecahedron) | 6 quadgrams (rhombicuboctahedron) |
 |--|--|
-| ![eD](imgs\rhombicosidodecahedron.png) | ![eC](imgs\six_quadgrams_1.png) |
+| !(imgs\rhombicosidodecahedron.png) | ![eC](imgs\six_quadgrams_1.png) |
 | 120-degree units folded out of 5.5”x2.25” paper, 60 units total | ~132-degree units folded out of 5.5”x2.25” paper, 24 units total |
 
 | 12 pentagrams + 4 hexagrams (expanded truncated triakis tetrahedron) |
 |--|--|
 | ![et6k3T](imgs\truncated_triakis_tetrahedron_1.png) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K9eK9t6k3T> |
-| 1:2 rectangles, 120 degrees |
+| 120-degree units folded out of 5.5”x2.25” paper, 84 units total |
 
 | expanded truncated icosahedron | expanded goldberg polyhedron |
 |--|--|
 | ![etI](imgs\expanded_truncated_icosahedron_1.png) | ![ewD](imgs\expanded_goldberg_polyhedron.png) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=etI> | <https://levskaya.github.io/polyhedronisme/?recipe=eK99wD> |
-| 1:2.22, 120 degrees | 11/6”x4.25”, 120 degrees |
+| 120-degree units folded out of 4.25”x1.92” paper, 90 units total | 120-degree units folded out of 4.25"x1.833" paper, 420 units total |
 
-| expanded great rhombicuboctahedron | expanded great rhombicosidodecahedron |
+| expanded great rhombicosidodecahedron | expanded great rhombicuboctahedron |
 |--|--|
-| ![egeC](imgs\expanded_great_rhombicuboctahedron.jpeg) | ![egeD](imgs\expanded_great_rhombicosidodecahedron.jpg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=A9etaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaD> |
-| all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle | 11/6”x4.25” rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, decagrams at 90 degrees |
+| ![egeD](imgs\expanded_great_rhombicosidodecahedron.jpg) | ![egeC](imgs\expanded_great_rhombicuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=A9etaD> | <https://levskaya.github.io/polyhedronisme/?recipe=A9etaC> |
+| 4.25"x1.833" paper, ~132-degree for quadgrams, 120-degree for pentagrams, 90-degree for decagrams, 360 units total | all 1:2 rectangles, quadgrams at angle listed above, hexagrams at 120 degrees, octagrams at weird slightly >90 angle |
 
 
 ### More-expanded Polyhedra
 
-What happens when you expand a polyhedron that's already degree-4? The result is that each cycle "doubles", i.e. becomes two parallel cycles, each with double the length as before. In origami terms, each n-gram will turn into two (2n)-grams. For example, the icosidodecahedron is Six Intersecting Pentagrams; but the expanded icosidodecahedron below is comprised of 12 decagrams. I came up with many of the compounds in this section by just doing the expansion operation on the polyhedra from above.
+What happens when you expand a polyhedron that's already degree-4? Each existing cycle "doubles", i.e. becomes two parallel cycles, each with double the length as before. In origami terms, each n-gram will turn into two (2n)-grams. For example, the icosidodecahedron is Six Intersecting Pentagrams; but the expanded icosidodecahedron below is comprised of 12 decagrams. I came up with many of the compounds in this section by just doing the expansion operation on the polyhedra from above.
 
 | expanded icosidodecahedron | expanded cuboctahedron |
 |--|--|
