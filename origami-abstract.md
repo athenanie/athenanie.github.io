@@ -39,7 +39,7 @@ The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly c
 
 | 12 pentagrams (rhombicosidodecahedron) | 6 quadgrams (rhombicuboctahedron) |
 |--|--|
-| !(imgs\rhombicosidodecahedron.png) | ![eC](imgs\six_quadgrams_1.png) |
+| ![](imgs\rhombicosidodecahedron.png) | ![](imgs\six_quadgrams_1.png) |
 | 120-degree units folded out of 5.5”x2.25” paper, 60 units total | ~132-degree units folded out of 5.5”x2.25” paper, 24 units total |
 
 | 12 pentagrams + 4 hexagrams (expanded truncated triakis tetrahedron) |
