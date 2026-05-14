@@ -114,17 +114,17 @@ After much experimentation and operation spam in polyhedronisme, I found another
 
 This "twisty" process can also be combined with "doubling", as can be seen several times in this section. They are not commutative, however (see "doubled twisty octahedron" versus "twisty doubled octahedron" below).
 
-| twisty octahedron (6 hexagrams) | doubled twisty octahedron (12 dodecagrams) | twisty doubled octahedron (16 octadecagrams)|
-|--|--|--|
-| ![rtO](imgs\twisty_octahedron.jpeg) | ![ertO](imgs\expanded_twisty_octahedron.jpeg) | ![rteO](imgs\twisty_expanded_cuboctahedron.jpeg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eatO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999ateO> |
-| rectified truncated octahedron; 120-degree units folded out of 4.25"x1.833" paper, 36 units total | expanded rectified truncated octahedron; 90-degree units folded out of 4.25"x1.833" paper, 144 units total | rectified truncated expanded octahedron; 90-degree units folded out of 4.25"x1.833" paper, 288 units total |
-
-| twisty cuboctahedron (8 nonagrams) | doubled twisty cuboctahedron (16 octadecagrams) |
+| twisty octahedron (6 hexagrams) | doubled twisty octahedron (12 dodecagrams) |
 |--|--|
-| ![rtaO](imgs\twisty_cuboctahedron.jpeg) | ![ertaO](imgs\expanded_twisty_cuboctahedron.jpeg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999abO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9eabO> |
-|  rectified truncated cuboctahedron, AKA rectified great cuboctahedron; ~104-degree units folded out of 4.25”x1.833" paper, 72 units total | expanded rectified truncated cuboctahedron; 90-degree units folded out of 4.25”x1.833" paper, 288 units total |
+| ![rtO](imgs\twisty_octahedron.jpeg) | ![ertO](imgs\expanded_twisty_octahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eatO> |
+| rectified truncated octahedron; 120-degree units folded out of 4.25"x1.833" paper, 36 units total | expanded rectified truncated octahedron; 90-degree units folded out of 4.25"x1.833" paper, 144 units total |
+
+| twisty cuboctahedron (8 nonagrams) | doubled twisty cuboctahedron (16 octadecagrams) | twisty doubled cuboctahedron (16 octadecagrams)|
+|--|--|--|
+| ![rtaO](imgs\twisty_cuboctahedron.jpeg) | ![ertaO](imgs\expanded_twisty_cuboctahedron.jpeg) | ![rteO](imgs\twisty_expanded_cuboctahedron.jpeg) |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K999abO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9eabO> | <https://levskaya.github.io/polyhedronisme/?recipe=K9ateaO> |
+|  rectified truncated cuboctahedron, AKA rectified great cuboctahedron; ~104-degree units folded out of 4.25”x1.833" paper, 72 units total | expanded rectified truncated cuboctahedron; 90-degree units folded out of 4.25”x1.833" paper, 288 units total | rectified truncated expanded cuboctahedron; 90-degree units folded out of 4.25"x1.833" paper, 288 units total |
 
 | twisty icosidodecahedron (12 pentadecagrams) |
 |--|
