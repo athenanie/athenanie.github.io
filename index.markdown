@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: home
 layout: home
 ---
 <img src="images\20250407_224951.jpg" alt="origami on floor" width="40%" style="float: right"/>
