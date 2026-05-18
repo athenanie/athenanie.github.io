@@ -23,5 +23,5 @@ Outside of math and school, I like playing [violin](https://hhchamberstrings.sa.
 
 - [All Stars are Easy to Draw](https://www.utsc.utoronto.ca/ctl/sites/utsc.utoronto.ca.ctl/files/docs/resource-files/U_t__Mathazine_Summer_2025%20%2812%29_1.pdf) (2025)
     - [Star Tree](https://openprocessing.org/sketch/2690500) on OpenProcessing
-
-<!-- - Math Sculpture from the Mundane (2024) -->
+    
+<!-- - [Math Sculpture from the Mundane](/mcsp-2024.md) (2024) -->

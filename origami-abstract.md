@@ -117,7 +117,7 @@ This "twisty" process can also be combined with "doubling", as can be seen sever
 | twisty octahedron (6 hexagrams) | doubled twisty octahedron (12 dodecagrams) |
 |--|--|
 | ![rtO](imgs\twisty_octahedron.jpeg) | ![ertO](imgs\expanded_twisty_octahedron.jpeg) |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eatO> |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K99atO> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eatO> |
 | rectified truncated octahedron; 120-degree units folded out of 4.25"x1.833" paper, 36 units total | expanded rectified truncated octahedron; 90-degree units folded out of 4.25"x1.833" paper, 144 units total |
 
 | twisty cuboctahedron (8 nonagrams) | doubled twisty cuboctahedron (16 octadecagrams) | twisty doubled cuboctahedron (16 octadecagrams)|
