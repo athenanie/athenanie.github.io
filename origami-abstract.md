@@ -155,8 +155,7 @@ From now on, the notation {n/k} is used to denote self-intersecting loops/cycles
 |--|--|--|
 | ![estT](imgs\floral_truncated_tetrahedron.jpeg) | ![estO](imgs\floral_truncated_octahedron.jpg) | ![estC](imgs\floral_truncated_cube.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9estT> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estC> |
-| expanded snub truncated tetrahedron; 6-colored by edges of overall tetrahedron shape: each color gets 2 pentagrams at 120-degrees with 4.25”x1.833" paper, 2 long-decagrams at 90-degrees with 2*(3 4.25”x1.833" and 2 5.5"x1.833") paper, 180 units total | expanded snub truncated octahedron; 20-grams with turning number 3 are made of 120-degree units with 4.25”x1.833” paper; long decagrams are made of 90-degree units with 2*(4 4.25”x1.833” and 1 5.5”x1.833”) paper; 360 units total
- | expanded snub truncated cube; pentagrams are made of 120-degree units with 4.25”x1.833” paper; 40-grams with turning number 3 are made of 90-degree units with 8*(4 11/6”x4.25” and 1 5.5”x1.833” paper); 360 units total |
+| expanded snub truncated tetrahedron; 6-colored by edges of overall tetrahedron shape: each color gets 2 pentagrams at 120-degrees with 4.25”x1.833" paper, 2 long-decagrams at 90-degrees with 2*(3 4.25”x1.833" and 2 5.5"x1.833") paper, 180 units total | expanded snub truncated octahedron; 20-grams with turning number 3 are made of 120-degree units with 4.25”x1.833” paper; long decagrams are made of 90-degree units with 2*(4 4.25”x1.833” and 1 5.5”x1.833”) paper; 360 units total | expanded snub truncated cube; pentagrams are made of 120-degree units with 4.25”x1.833” paper; 40-grams with turning number 3 are made of 90-degree units with 8*(4 11/6”x4.25” and 1 5.5”x1.833” paper); 360 units total |
 
 | floral cuboctahedron (8 loops) | floral rhombicuboctahedron |
 |--|--|
