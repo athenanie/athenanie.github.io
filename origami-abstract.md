@@ -67,7 +67,7 @@ What happens when you expand a polyhedron that's already degree-4? Each existing
 
 | doubled icosidodecahedron (12 decagrams) | doubled cuboctahedron (8 hexagrams) |
 |--|--|
-| ![eaD](imgs\expanded_icosidodecahedron.png) | ![eaO](imgs\expanded_rhombicuboctahedron.jpeg) |
+| ![eaD](imgs\doubled_icosidodecahedron_1.png) | ![eaO](imgs\expanded_cuboctahedron_1.png) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K99eaD> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eaO> |
 | expanded icosidodecahedron; 90-degree units folded out of 4.25"x1.125" paper, 120 units total |expanded cuboctahedron; 120-degree units folded out of 4.25"x1.833" paper, 48 units total |
 
@@ -79,7 +79,7 @@ What happens when you expand a polyhedron that's already degree-4? Each existing
 
 | doubled rhombicosidodecahedron (24 decagrams) | doubled rhombicuboctahedron (12 octagrams) |
 |--|--|
-| ![eeD](imgs\doubled_rhombicosidodecahedron_1.png) | ![eeC](imgs\expanded_rhombicuboctahedron.jpg) |
+| ![eeD](imgs\doubled_rhombicosidodecahedron_1.png) | ![eeC](imgs\doubled_rhombicuboctahedron_1.png) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=K99eeD> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eeC> |
 | expanded rhombicosidodecahedron; 90-degree units folded out of 4.25”x2.125” and 5.5”x2.125” paper, 240 units total  | expanded rhombicuboctahedron; 90-degree units folded out of 4.25”x2.125” and 5.1”x2.125” paper, 96 units total |
 
@@ -129,7 +129,7 @@ This "twisty" process can also be combined with "doubling", as can be seen sever
 | twisty icosidodecahedron (12 pentadecagrams) |
 |--|
 | [photo temporarily unavailable] |
-| <https://levskaya.github.io/polyhedronisme/?recipe=K999abD> |
+| <https://levskaya.github.io/polyhedronisme/?recipe=K9abD> |
 | rectified truncated icosidodecahedron, AKA rectified great rhombicosidodecahedron; 90-degree units folded out of 4.25”x1.833" paper, 180 units total |
 
 | twisty rhombicuboctahedron (12 dodecagrams) | twisty rhombicosidodecahedron (24 pentadecagrams) |
@@ -155,12 +155,13 @@ From now on, the notation {n/k} is used to denote self-intersecting loops/cycles
 |--|--|--|
 | ![estT](imgs\floral_truncated_tetrahedron.jpeg) | ![estO](imgs\floral_truncated_octahedron.jpg) | ![estC](imgs\floral_truncated_cube.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9estT> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estO> | <https://levskaya.github.io/polyhedronisme/?recipe=A9estC> |
-| expanded snub truncated tetrahedron; 6-colored by edges of overall tetrahedron shape: each color gets 2 pentagrams at 120-degrees with 4.25”x1.833" paper, 2 long-decagrams at 90-degrees with 2*(3 4.25”x1.833" and 2 5.5"x1.833") paper, 180 units total | expanded snub truncated octahedron; {4/3} at 120-degrees with 4.25”x1.833" paper, {6/3} are comprised of long decagrams with 2*(4 4.25”x1.833" and 1 5.5"x1.833") paper, 360 units total | expanded snub truncated cube; {3/3} are comprised of pentagrams at 120-degrees with 4.25”x1.833" paper, {8/3} are 40-grams at 90-degrees with 8*(4 11/6”x4.25” and 5.5"x1.833" paper), 360 units total |
+| expanded snub truncated tetrahedron; 6-colored by edges of overall tetrahedron shape: each color gets 2 pentagrams at 120-degrees with 4.25”x1.833" paper, 2 long-decagrams at 90-degrees with 2*(3 4.25”x1.833" and 2 5.5"x1.833") paper, 180 units total | expanded snub truncated octahedron; 20-grams with turning number 3 are made of 120-degree units with 4.25”x1.833” paper; long decagrams are made of 90-degree units with 2*(4 4.25”x1.833” and 1 5.5”x1.833”) paper; 360 units total
+ | expanded snub truncated cube; pentagrams are made of 120-degree units with 4.25”x1.833” paper; 40-grams with turning number 3 are made of 90-degree units with 8*(4 11/6”x4.25” and 1 5.5”x1.833” paper); 360 units total |
 
 | floral cuboctahedron (8 loops) | floral rhombicuboctahedron |
 |--|--|
 | ![esaO](imgs\floral_cuboctahedron.jpg) | ![eseC](imgs\floral_rhombicuboctahedron.jpeg) |
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9esaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A99eseC> |
-| expanded snub cuboctahedron, comprised of eight 30-grams with turning number 4; 90-degree units folded out of 4.25”x1.833" paper, 240 units total | expanded snub rhombicuboctahedron; {3/4} are 30-grams at ~104-degrees with 4.25”x1.833" paper, {4/4} are comprised of decagrams at >90-degrees with 4.25”x1.833" paper, 480 edges |
+| expanded snub cuboctahedron, comprised of eight 30-grams with turning number 4; 90-degree units folded out of 4.25”x1.833" paper, 240 units total | expanded snub rhombicuboctahedron; 30-grams with turning number 4 are made of ~104-degree units with 4.25”x1.833” paper; decagrams at made of >90-degree units with 4.25”x1.833” paper; 480 units total |
 
 Generally, all of the polyhedra above have turned out pretty spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like.

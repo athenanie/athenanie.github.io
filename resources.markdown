@@ -20,6 +20,7 @@ great pages
 - [Origami Torus](<http://matthewdeutsch.com/projects/origami-torus/>)
 - [Can an icosahedron be 3-colored?](https://www.youtube.com/watch?v=JsaNtKVcDfk)
 - [Visual Polyhedra](https://dmccooey.com/polyhedra/index.html)
+- [List of Polygons](https://en.wikipedia.org/wiki/List_of_polygons)
 - <https://robertlovespi.net/2013/11/13/expanded-truncated-icosahedron/>
 
 
