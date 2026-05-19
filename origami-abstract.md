@@ -35,7 +35,7 @@ The following three compounds are a bit different than the rest on this page; th
 
 ### Expanded Degree-3 Polyhedra
 
-The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly count as well-known degree-4 polyhedra. However, they're included in this section because they fit the generalization of expansions of degree-3 polyhedra. From math, we know that the expansion of any polyhedron is degree-4, which is something we'll come back to. But expansions of degree-3 polyhedra in particular have a clear face-to-star correspondence since each face turns into a cupola when expanded. As a result, there is a shared theory behind the weaving of the following shapes.
+The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly count as well-known degree-4 polyhedra. However, they're included in this section because they fit the generalization of expansions of degree-3 polyhedra. From math, we know that the expansion of any polyhedron is degree-4, which is something we'll come back to. But expansions of degree-3 polyhedra in particular have a clear face-to-star correspondence since each n-gon face turns into an n-cupola when expanded. As a result, there is a shared theory behind the weaving of the following shapes.
 
 | 12 pentagrams (rhombicosidodecahedron) | 6 quadgrams (rhombicuboctahedron) |
 |--|--|
@@ -63,7 +63,7 @@ The Archimedean rhombicosidodecahedron and rhombicuboctahedron below certainly c
 
 ### More-expanded Polyhedra
 
-What happens when you expand a polyhedron that's already degree-4? Each existing cycle "doubles", i.e. becomes two parallel cycles, each with double the length as before. In origami terms, each n-gram will turn into two (2n)-grams. For example, the icosidodecahedron is Six Intersecting Pentagrams; but the expanded icosidodecahedron below is comprised of 12 decagrams. I came up with many of the compounds in this section by just doing the expansion operation on the polyhedra from above.
+What happens when you expand a polyhedron that's already degree-4? Each existing cycle "doubles", i.e. becomes two parallel cycles, each with double the length as before. In origami terms, each n-gram will turn into two (2n)-grams. For example, the icosidodecahedron is Six Intersecting Pentagrams; but the expanded icosidodecahedron below is comprised of 12 decagrams. I came up with many of the compounds in this section by doing the expansion operation on the polyhedra from above.
 
 | doubled icosidodecahedron (12 decagrams) | doubled cuboctahedron (8 hexagrams) |
 |--|--|
@@ -91,7 +91,7 @@ The Archimedean degree-3 truncated tetrahedron, truncated octahedron, and trunca
 | <https://levskaya.github.io/polyhedronisme/?recipe=K9eetT> | <https://levskaya.github.io/polyhedronisme/?recipe=K999eetO> | <https://levskaya.github.io/polyhedronisme/?recipe=K99eetC> |
 | expanded expanded truncated tetrahedron; 120-degree hexagrams, 4.25"x2.125" and 5.5"x2.125" paper; 90-degree dodecagrams, 4.25"x2.125" and 5.1"x2.125" paper; 144 units total | expanded expanded truncated octahedron; 90-degree octagrams and dodecagrams out of 4.25"x2.125" and 5.1"x2.125" paper; 288 units total | expanded expanded truncated cube; 120-degree hexagrams, 4.25"x2.125" and 5.5"x2.125" paper; ~83 degree hexadecagrams, 4.25"x2.125" and 1.15x longer rectangles; 288 units total |
 
-This "doubling" expansion process can be applied multiple times, though size and resources posed a physical limitation on which shapes this could be applied to. In the compounds below, I applied it twice, creating "quadruple" parallel loops which are quite visually identifiable.
+This "doubling" expansion process can be applied multiple times, though size and resources poses a physical limitation on which shapes this could be applied to. In the compounds below, I applied it twice, creating "quadruple" parallel loops which are quite visually identifiable.
 
 | quadrupled cuboctahedron (16 dodecagrams) |
 |--|
@@ -105,14 +105,14 @@ This "doubling" expansion process can be applied multiple times, though size and
 | <https://levskaya.github.io/polyhedronisme/?recipe=K99eeeC> |
 | ~83-degree units folded out of 4 sizes of rectanges of width 2.125”; lengths are 4.25”, 4.87”, 5.28”, 5.5", 384 units total |
 
-From now on, this process is nicknamed as "doubling", "quadrupling", etc.
+From now on, this process is nicknamed "doubling", "quadrupling", etc.
 
 
 ### "Twisty" Polyhedra
 
-After much experimentation and operation spam in polyhedronisme, I found another generalization: applying the truncation then rectification operation on a degree-4 shape results in twisted doubled version of each closed loop. In origami terms, this means each n-gram is turned into two "parallel" (1.5n)-grams that repeatedly twist and intersect eachother, almost like a DNA double helix. This result is also pretty visually identifiable.
+After much experimentation and operation spam in polyhedronisme, I found another generalization: applying the truncation then rectification operation on a degree-4 shape results in a twisted doubled version of each closed loop. In origami terms, this means each n-gram is turned into two "parallel" (1.5n)-grams that repeatedly twist and intersect eachother, like a DNA double helix. This result is also pretty visually identifiable.
 
-This "twisty" process can also be combined with "doubling", as can be seen several times in this section. They are not commutative, however (see "doubled twisty octahedron" versus "twisty doubled octahedron" below).
+This "twisty" process can also be combined with "doubling", as can be seen several times in this section. They are not commutative, however (see "doubled twisty cuboctahedron" versus "twisty doubled cuboctahedron" below).
 
 | twisty octahedron (6 hexagrams) | doubled twisty octahedron (12 dodecagrams) |
 |--|--|
@@ -141,9 +141,7 @@ This "twisty" process can also be combined with "doubling", as can be seen sever
 
 ### "Floral" Polyhedra
 
-The last (and perhaps weirdest) generalization covered here is the result of snubbing and expansion. Visually, we can see that the resulting origami compounds have elaborate self-intersecting faces (they look a bit like flower petals). There is a rough correspondence between the faces of the original shape and the cycles in the expanded snubbed version. The exact specifications (cycle length and turning number) of these self-intersecting cycles are predictable, though much less clearly.
-
-From now on, the notation {n/k} is used to denote self-intersecting loops/cycles that have n "petals" with turning number k. Note that if gcd(n,k)>1, they will decompose into simpler shapes.
+The last (and perhaps weirdest) generalization covered here is the result of snubbing and expansion. Visually, we can see that the resulting origami compounds have elaborate self-intersecting faces, looking like flower petals. There is a rough correspondence between the faces of the original shape and the cycles in the expanded snubbed version. The exact specifications (cycle length and turning number) of these self-intersecting cycles are predictable based on properties of the original polyhedron, though much less clearly.
 
 | floral cube (6 loops) | floral dodecahedron (12 loops) |
 |--|--|
@@ -163,4 +161,5 @@ From now on, the notation {n/k} is used to denote self-intersecting loops/cycles
 | <https://levskaya.github.io/polyhedronisme/?recipe=A9esaC> | <https://levskaya.github.io/polyhedronisme/?recipe=A99eseC> |
 | expanded snub cuboctahedron, comprised of eight 30-grams with turning number 4; 90-degree units folded out of 4.25”x1.833" paper, 240 units total | expanded snub rhombicuboctahedron; 30-grams with turning number 4 are made of ~104-degree units with 4.25”x1.833” paper; decagrams at made of >90-degree units with 4.25”x1.833” paper; 480 units total |
 
-Generally, all of the polyhedra above have turned out pretty spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like.
+Generally, all of the polyhedra above have turned out roughly spherical, but this isn't necessarily the case in this section. The expanded snub truncated tetrahedron is visibly tetrahedral and the expanded snub truncated octahedron is visibly octahedral. Both the expanded snub truncated cube and expanded snub rhombicuboctahedron are cube-like.
+
