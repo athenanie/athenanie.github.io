@@ -42,11 +42,6 @@ header_pages:
 
 show_excerpts: true
 
-# images:
-#   - a:
-#     post: 'https://flic.kr/p/2reqVmu'
-#     url: 'https://live.staticflickr.com/65535/54629588360_b04f8bab7f_b.jpg'
-#     caption: 'expanded truncated triakis tetrahedron (twelve pentagrams & four hexagrams)'  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
