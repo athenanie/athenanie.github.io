@@ -4,6 +4,18 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-Polyhedral compounds that I designed and folded :D
+*Avery Nie is a second-year math student at the University of Toronto Scarborough and an artist interested in mathematical sculpture. Inspired by geometry, their focus is on realizing these ideas into three-dimensional space through spiky paper polyhedra, cardstock weaving, pipe cleaners, and strategic color choices. Particularly, they’re interested in how a larger sculpture fits into its surroundings and the feeling invokes in the environment. Their origami work has previously been exhibited at the UTSC Undergraduate Research and Creative Forum and won the Creative prize.*
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/183044975@N02/albums/72177720327444672" title="portfolio"><img src="https://live.staticflickr.com/65535/54635983724_4dae445737_z.jpg" width="800" height="600" alt="portfolio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![](images\urcf_1.png)
+
+![](images\urcf_2.png)
+
+![](imgs\expanded_goldberg_polyhedron.png)
+
+![](imgs\quadrupled_rhombicuboctahedron_1.png)
+
+![](images\spiget_finner.jpg)
+
+![](images\rainbow_torus.jpg)
+
+![](images\large_2026.jpg)
