@@ -17,15 +17,16 @@ websites that changed me
 great pages
 - [Notes on Making Tori](http://origametry.net/combgeom/tori/torusnotes.html)
 - [Conway polyhedron notation](https://en.wikipedia.org/wiki/Conway_polyhedron_notation)
-- [Origami Torus](<http://matthewdeutsch.com/projects/origami-torus/>)
 - [Can an icosahedron be 3-colored?](https://www.youtube.com/watch?v=JsaNtKVcDfk)
+- [Virtual Polyhedra](https://georgehart.com/virtual-polyhedra/vp.html)
 - [Visual Polyhedra](https://dmccooey.com/polyhedra/index.html)
 - [List of Polygons](https://en.wikipedia.org/wiki/List_of_polygons)
-- <https://robertlovespi.net/2013/11/13/expanded-truncated-icosahedron/>
-
+- [Origami Torus (matthewdeutsch)](<http://matthewdeutsch.com/projects/origami-torus/>)
+- [Expanded Truncated Icosahedron (robertlovespi)](https://robertlovespi.net/2013/11/13/expanded-truncated-icosahedron/)
+- [Six intersecting Pentagrams Genealogy](https://origamiusa.org/thefold/article/
 
 books and people
-- Mind Blowing Modular Origami by Byriah Loper
+- [Mind Blowing Modular Origami by Byriah Loper](https://www.amazon.com/Mind-Blowing-Kusudama-Origami-Modular-Folding/dp/4805316993)
 - [Allison Grace Martin](https://www.flickr.com/photos/109333486@N07/with/51111156271)
 - <http://zacharyabel.com>
 - <https://erikdemaine.org>
@@ -45,4 +46,9 @@ origami tutorials
 - [polypompholyx Modular Origami](https://www.polypompholyx.com/2017/01/modularorigami/)
 - [Francis Ow 120 degree units](https://owrigami.com/show_diagram.php?diagram=120)
 - [120 Units Curler Truncated Icosidodecahedron](https://www.youtube.com/watch?v=t1-p5qOQaG8)
-- [unnamed(?) edge unit](https://3.bp.blogspot.com/-kCSfidRA5l8/WSxDBaT_meI/AAAAAAAABIg/lWBGMn6s29QCMggWoko4cAjPYF_l3tA6ACLcB/s1600/origami.jpg)
+six-intersecting-pentagrams-diagrams-and-puzzle-its-genealogy)
+- [Snapology Campanus Sphere](https://geometiles.com/dev/wp-content/uploads/2020/11/Snapology-Campanus.pdf)
+- [unknown edge unit](https://3.bp.blogspot.com/-kCSfidRA5l8/WSxDBaT_meI/AAAAAAAABIg/lWBGMn6s29QCMggWoko4cAjPYF_l3tA6ACLcB/s1600/origami.jpg)
+
+and
+- [Jekyll Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
