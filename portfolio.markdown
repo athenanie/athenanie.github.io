@@ -18,3 +18,5 @@ title: portfolio
 ![q](images\rainbow_torus.jpg)
 
 ![q](images\large_2026.jpg)
+
+![q](images\mcsp_hanging_shapes.jpg)

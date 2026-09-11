@@ -39,6 +39,7 @@ plugins:
 
 header_pages:
   - portfolio.markdown
+  - posts.markdown
   - resources.markdown
 
 show_excerpts: true
